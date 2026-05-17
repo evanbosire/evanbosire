@@ -18,7 +18,7 @@ I build scalable data systems, APIs, and backend services using Python, SQL, Nod
 
 ##  Featured Projects
 
-### 1. SALES_ETL_PIPELINE
+### 1. [SALES_ETL_PIPELINE](https://github.com/evanbosire/SALES_ETL_PIPELINE)
 - This project is a Data Engineering ETL (Extract, Transform, Load)
 - The pipeline extracts raw sales data
 - Transforms it into clean and consistent data
