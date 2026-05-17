@@ -4,7 +4,7 @@
 
 I build scalable data systems, APIs, and backend services using Python, SQL, Node.js, and cloud tools.
 
----
+
 
 ## Skills
 - Python (Pandas, scripting, automation)
@@ -14,7 +14,7 @@ I build scalable data systems, APIs, and backend services using Python, SQL, Nod
 - Git & GitHub
 - REST APIs
 
----
+
 
 ##  Featured Projects
 
@@ -28,7 +28,7 @@ I build scalable data systems, APIs, and backend services using Python, SQL, Nod
 - Data cleaning using Python
 - Stored in database
 
----
+
 
 ##  Contact
 - LinkedIn: https://www.linkedin.com/in/brian-evans-a66332257/
