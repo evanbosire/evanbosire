@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Brian Bosire Evans 
 
-<!--
-**evanbosire/evanbosire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer | Software Developer | API & Cloud Enthusiast
 
-Here are some ideas to get you started:
+I build scalable data systems, APIs, and backend services using Python, SQL, Node.js, and cloud tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Python (Pandas, scripting, automation)
+- SQL (data querying & transformation)
+- Node.js & Express (APIs)
+- MongoDB & PostgreSQL
+- Git & GitHub
+- REST APIs
+
+---
+
+##  Featured Projects
+
+### 1. Customer Management System
+- Node.js + MongoDB + React
+- Role-based authentication system
+- Admin dashboard for approvals
+
+### 2. Data Pipeline Project (Add this later)
+- ETL pipeline (Extract, Transform, Load)
+- Data cleaning using Python
+- Stored in database
+
+---
+
+##  Contact
+- LinkedIn: https://www.linkedin.com/in/brian-evans-a66332257/
+- Email: evanbosire422@gmail.com
