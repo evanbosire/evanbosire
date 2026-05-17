@@ -1,18 +1,16 @@
 # Hi, I'm Brian Bosire Evans 
 
-## Data Engineer | Software Developer | API & Cloud Enthusiast
+## Data Engineer | & Cloud Enthusiast
 
-I build scalable data systems, APIs, and backend services using Python, SQL, Node.js, and cloud tools.
+I build scalable data pipelines services using Python, SQL, and AWS.
 
 
 
 ## Skills
-- Python (Pandas, scripting, automation)
+- Python (automation)
 - SQL (data querying & transformation)
-- Node.js & Express (APIs)
-- MongoDB & PostgreSQL
-- Git & GitHub
-- REST APIs
+- Bash (scripting)
+- AWS (datalake)
 
 
 
