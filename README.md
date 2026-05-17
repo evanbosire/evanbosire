@@ -18,15 +18,15 @@ I build scalable data systems, APIs, and backend services using Python, SQL, Nod
 
 ##  Featured Projects
 
-### 1. Customer Management System
-- Node.js + MongoDB + React
-- Role-based authentication system
-- Admin dashboard for approvals
+### 1. SALES_ETL_PIPELINE
+- This project is a Data Engineering ETL (Extract, Transform, Load)
+- The pipeline extracts raw sales data
+- Transforms it into clean and consistent data
+- Performs data quality checks, and loads the processed data into a structured CSV file.
 
-### 2. Data Pipeline Project (Add this later)
-- ETL pipeline (Extract, Transform, Load)
-- Data cleaning using Python
-- Stored in database
+The pipeline is designed to simulate real-world ETL processes used in modern data engineering workflows.
+
+
 
 
 
